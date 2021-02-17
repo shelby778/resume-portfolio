@@ -1,0 +1,35 @@
+header {
+    background-color: coral;
+    color:white;
+    text-align:center;
+}
+
+h1{
+    font-size:40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    font-size:30px;
+    text-align:center;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align:center;
+}
+
+ol{
+    text-align:center;
+}
+
+li{
+    display:block;
+}
+
+ul{
+    text-align:center;
+}
